@@ -5,12 +5,13 @@
   "data_sources": [
     {
       "name": "AVMOO 日本",
-      "link": "https://avmoo.asia",
+      "link": "https://avmask.com",
       "legacies":[
         "javzoo.com",
         "avmoo.xyz",
         "avmoo.net",
         "avmoo.pw",
+		"avmoo.asia",
         "javmoo.com",
         "javlog.com",
         "javtag.com",
